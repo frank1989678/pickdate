@@ -9,6 +9,7 @@
 .action-li:nth-child(n+2):before{content:'';position:absolute;left:0;top:0;right:0;border-top:1px solid #eee;transform:scaleY(0.5);}
 .action-cancel{margin-top:23px;}
 
+.action-confirm{padding:46px 0;text-align:center;color:#7F7F7F;font-size:35px;}
 /*皮肤一*/
 .action-sheet .action-body{padding:46px;}
 .full-head-iphoneX .action-sheet .action-body{padding-bottom:104px;}/*刘海屏底部无刘海*/
